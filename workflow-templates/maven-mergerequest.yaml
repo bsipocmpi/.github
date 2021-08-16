@@ -5,7 +5,9 @@ name: Maven Merge Request
 
 on:
   pull_request:
-
+#
+#TEST
+#
 jobs:
   build:
 
